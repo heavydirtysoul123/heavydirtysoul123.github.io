@@ -22,4 +22,4 @@ A modern, dark-mode portfolio built with vanilla HTML + Tailwind CSS. Deployed o
 
 **Before deploying,** replace `YOUR_FORM_ID` in index.html with your actual Formspree form ID.
 
-Live: https://heavydirtysoul123.github.io/Shawn-Portfolio/
+Live: https://heavydirtysoul123.github.io/
